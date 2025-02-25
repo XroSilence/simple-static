@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "A simple static site generator for documentation and blogs",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XroSilence/simple-static.git"
+  },
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
