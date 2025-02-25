@@ -20,7 +20,7 @@ npm install -g simple-static
 
 # Or use npx
 npx simple-static <command>
-```
+```bash
 
 ## Quick Start
 
@@ -39,7 +39,7 @@ npm run serve
 
 # Build for production
 npm run build
-```
+```bash
 
 ## Usage
 
@@ -81,7 +81,7 @@ export default {
 
 Create a new directory under `themes` with layout files:
 
-```
+```bash
 themes/
   my-theme/
     layouts/
@@ -138,4 +138,4 @@ MIT
 
 ---
 
-Created by Claude & Collaborator
+Created by Claude & XroSilence
